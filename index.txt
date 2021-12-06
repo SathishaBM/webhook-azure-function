@@ -1,0 +1,1 @@
+In the top menu bar, select Wiki to display the pages in your repository (or repo). A Welcome page appears.
